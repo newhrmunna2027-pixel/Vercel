@@ -13,7 +13,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://node12.zampto.net:20416/$1"
+      "destination": "http://out-of-law-spam-panel.onrender.com/$1"
     }
   ]
 }
