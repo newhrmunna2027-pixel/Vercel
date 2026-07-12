@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://out-of-law-spam-panel-0jwp.onrender.com/$1"
+      "destination": "https://out-of-law-spam-panel-lbel.onrender.com/$1"
     }
   ]
 }
