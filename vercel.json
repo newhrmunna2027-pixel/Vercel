@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://spamletest-production.up.railway.app/$1"
+      "destination": "https://web-production-cd9b5d.up.railway.app/$1"
     }
   ]
 }
