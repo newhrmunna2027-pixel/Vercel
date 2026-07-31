@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://78.154.103.29:14498/$1"
+      "destination": "http://june.hidencloud.com:24634/$1"
     }
   ]
 }
