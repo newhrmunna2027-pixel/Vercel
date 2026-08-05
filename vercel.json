@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://june.hidencloud.com:24634/$1"
+      "destination": "https://spam-guild.onrender.com/$1"
     }
   ]
 }
