@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://spam-guild.onrender.com/$1"
+      "destination": "https://hi-there--munnadhali0006.replit.app/$1"
     }
   ]
 }
