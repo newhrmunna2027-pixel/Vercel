@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://imported-motors-inspector-introduce.trycloudflare.com/$1"
+      "destination": "https://instances-ambassador-pick-yang.trycloudflare.com/$1"
     }
   ]
 }
