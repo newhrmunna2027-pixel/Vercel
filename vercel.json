@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://affiliated-secondary-gasoline-providing.trycloudflare.com/$1"
+      "destination": "https://output-self-andreas-financial.trycloudflare.com/$1"
     }
   ]
 }
