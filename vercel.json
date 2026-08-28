@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://president-infant-bicycle-andy.trycloudflare.com/$1"
+      "destination": "https://staffing-impaired-villas-sonic.trycloudflare.com/$1"
     }
   ]
 }
