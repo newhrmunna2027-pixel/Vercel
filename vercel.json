@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://needle-eng-pasta-gods.trycloudflare.com/$1"
+      "destination": "https://affiliated-secondary-gasoline-providing.trycloudflare.com/$1"
     }
   ]
 }
