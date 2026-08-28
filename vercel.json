@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://hon-portfolio-findings-significance.trycloudflare.com/$1"
+      "destination": "https://appreciated-publicly-services-infinite.trycloudflare.com/$1"
     }
   ]
 }
