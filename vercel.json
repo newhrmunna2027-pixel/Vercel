@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://appreciated-publicly-services-infinite.trycloudflare.com/$1"
+      "destination": "https://speeches-reasonably-apparently-gave.trycloudflare.com/$1"
     }
   ]
 }
