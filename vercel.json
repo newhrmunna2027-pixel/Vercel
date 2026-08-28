@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://constant-interfaces-solomon-financing.trycloudflare.com/$1"
+      "destination": "https://tom-generic-ppm-lookup.trycloudflare.com/$1"
     }
   ]
 }
