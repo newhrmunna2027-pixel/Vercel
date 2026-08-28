@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://catch-cos-cgi-showcase.trycloudflare.com/$1"
+      "destination": "https://dozens-hydraulic-bird-careers.trycloudflare.com/$1"
     }
   ]
 }
