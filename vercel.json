@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://hollow-feedback-decide-bradley.trycloudflare.com/$1"
+      "destination": "https://textbooks-chairman-bloggers-love.trycloudflare.com/$1"
     }
   ]
 }
