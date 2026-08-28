@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://staffing-impaired-villas-sonic.trycloudflare.com/$1"
+      "destination": "https://imported-motors-inspector-introduce.trycloudflare.com/$1"
     }
   ]
 }
