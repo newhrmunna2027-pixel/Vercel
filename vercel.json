@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://speeches-reasonably-apparently-gave.trycloudflare.com/$1"
+      "destination": "https://constant-interfaces-solomon-financing.trycloudflare.com/$1"
     }
   ]
 }
