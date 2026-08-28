@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://instances-ambassador-pick-yang.trycloudflare.com/$1"
+      "destination": "https://needle-eng-pasta-gods.trycloudflare.com/$1"
     }
   ]
 }
