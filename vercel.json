@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://dozens-hydraulic-bird-careers.trycloudflare.com/$1"
+      "destination": "https://hollow-feedback-decide-bradley.trycloudflare.com/$1"
     }
   ]
 }
