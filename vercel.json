@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://frontpage-illinois-soldiers-raising.trycloudflare.com/$1"
+      "destination": "https://mrna-level-response-develops.trycloudflare.com/$1"
     }
   ]
 }
