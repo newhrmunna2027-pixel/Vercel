@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://wider-rules-usual-accountability.trycloudflare.com/$1"
+      "destination": "https://harrison-academics-elevation-subscriptions.trycloudflare.com/$1"
     }
   ]
 }
