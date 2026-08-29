@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://harrison-academics-elevation-subscriptions.trycloudflare.com/$1"
+      "destination": "https://subsection-seed-rocket-syntax.trycloudflare.com/$1"
     }
   ]
 }
