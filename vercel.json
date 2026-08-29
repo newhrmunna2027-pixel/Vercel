@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://subsection-seed-rocket-syntax.trycloudflare.com/$1"
+      "destination": "https://coding-valuation-scanned-resistant.trycloudflare.com/$1"
     }
   ]
 }
