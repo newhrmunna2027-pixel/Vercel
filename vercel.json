@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://tom-generic-ppm-lookup.trycloudflare.com/$1"
+      "destination": "https://hands-soap-plains-combining.trycloudflare.com/$1"
     }
   ]
 }
