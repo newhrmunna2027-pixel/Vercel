@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://coding-valuation-scanned-resistant.trycloudflare.com/$1"
+      "destination": "http://147.135.128.19:20128/$1"
     }
   ]
 }
